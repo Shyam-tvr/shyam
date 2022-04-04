@@ -20,6 +20,7 @@ body::before {
 @media (min-width: 1024px) {
   body::before {
     background-attachment: fixed;
+    background: #040404 url("../img/bg.webp") top right no-repeat;
   }
 }
 
